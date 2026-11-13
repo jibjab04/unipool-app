@@ -69,3 +69,4 @@ async function supabaseSaveState(sbUrl, sbKey, payload) {
     return false;
   }
 }
+export default App;
